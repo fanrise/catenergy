@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.3.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-posthtml": "^3.0.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-svgstore": "^6.1.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-webp": "^3.0.0",
+    "gulp-webp-html": "^1.0.2",
+    "normalize.css": "^8.0.0",
+    "posthtml-include": "^1.2.0",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp-connect-php": "^1.0.1",
+    "pump": "^3.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
